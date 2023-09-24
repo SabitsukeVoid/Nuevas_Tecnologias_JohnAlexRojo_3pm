@@ -59,3 +59,6 @@ def buscarCorreo(correo):
                 return False
             else:
                 return True
+
+
+crearUsuarioSistema()
